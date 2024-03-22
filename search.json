@@ -4,7 +4,21 @@
     "href": "index.html",
     "title": "Sungwoo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi"
+  },
+  {
+    "objectID": "course.html",
+    "href": "course.html",
+    "title": "Courses",
+    "section": "",
+    "text": "STA 141"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Some Projects"
   },
   {
     "objectID": "about.html",
