@@ -1,5 +1,5 @@
 ---
-title: "Sungwoo"
+title: "Sung Woo Bak"
 image: Sungwoo.png
 toc: false
 about:
@@ -7,12 +7,30 @@ about:
     image-shape: round
     image-width: 20em
     links:
-        - text: LinkedIn
+        - icon: linkedin
+          text: LinkedIn
           href: https://www.linkedin.com/in/sungstats/
-        - text: GitHub
+        - icon: github
+          text: GitHub
           href: https://github.com/sungstats
-        - text: Email
+        - icon: envelope
+          text: Email
           href: mailto:sbak@ucdavis.edu
 ---
 
-Hi 
+
+:::{#hero-heading}
+
+Hi
+
+## Education
+
+University of California, Davis | Davis, CA  
+BS in Statistics | Expected June 2024
+
+
+## Experience
+
+
+
+:::

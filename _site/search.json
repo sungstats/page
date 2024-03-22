@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Sungwoo",
+    "title": "Sung Woo Bak",
     "section": "",
-    "text": "Hi"
+    "text": "Hi\n\n\nUniversity of California, Davis | Davis, CA\nBS in Statistics | Expected June 2024"
   },
   {
     "objectID": "project.html",
@@ -26,5 +26,19 @@
     "title": "Courses",
     "section": "",
     "text": "STA 141"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sung Woo Bak",
+    "section": "",
+    "text": "University of California, Davis | Davis, CA\nBS in Statistics | Expected June 2024"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sung Woo Bak",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
   }
 ]
