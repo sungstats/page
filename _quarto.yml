@@ -7,11 +7,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - project.qmd
+      - course.qmd
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
 

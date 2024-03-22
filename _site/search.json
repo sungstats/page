@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sungwoo",
+    "section": "",
+    "text": "Hi"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Some Projects"
+  },
+  {
+    "objectID": "course.html",
+    "href": "course.html",
+    "title": "Courses",
+    "section": "",
+    "text": "STA 141"
+  }
+]
