@@ -21,7 +21,7 @@ about:
 
 :::{#hero-heading}
 
-Hi
+Hi 안녕
 
 ## Education
 
