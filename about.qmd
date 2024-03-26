@@ -1,5 +1,7 @@
 ---
 title: "About"
+qmd_packages:
+  - rmarkdown
 ---
 
 TEST
@@ -37,4 +39,6 @@ plt.show()
 ```
 
 
-In both cases, :"echo = FALSE" works
+In both cases, "echo = FALSE" works
+
+
