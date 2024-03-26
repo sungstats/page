@@ -2,4 +2,24 @@
 title: "Projects"
 ---
 
-Some Projects
+TEST Project
+[Test Link](Projects/test.qmd)
+
+Link Test 2
+[![](Hisashiburi.png 'Description')](Projects/test.qmd)
+
+
+### X-ray Image Classification for Pneumonia
+[![](Hisashiburi.png 'Description')](Projects/xray.qmd)
+
+
+### Forecasting the Export GDP of the Central African Republic
+[![](Hisashiburi.png 'Description')](Projects/export.qmd)
+
+
+### Northern UC Campuses Housing Price Analysis
+[![](Hisashiburi.png 'Description')](Projects/housing.qmd)
+
+
+### Title 4
+[![](Hisashiburi.png 'Description')](Projects/housing.qmd)

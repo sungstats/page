@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "TEST"
   },
   {
     "objectID": "index.html",
@@ -18,14 +18,14 @@
     "href": "project.html",
     "title": "Projects",
     "section": "",
-    "text": "Some Projects"
+    "text": "TEST Project Test Link\nLink Test 2 \n\nX-ray Image Classification for Pneumonia\n\n\n\nForecasting the Export GDP of the Central African Republic\n\n\n\nNorthern UC Campuses Housing Price Analysis\n\n\n\nTitle 4"
   },
   {
     "objectID": "course.html",
     "href": "course.html",
     "title": "Courses",
     "section": "",
-    "text": "STA 141"
+    "text": "141 A\n141 B\n141 C\n131 A\n130 B\n108\n106\n104\n142 A\n142 B\n137\n135"
   },
   {
     "objectID": "index.html#education",
@@ -40,5 +40,75 @@
     "title": "Sung Woo Bak",
     "section": "",
     "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "about.html#r",
+    "href": "about.html#r",
+    "title": "About",
+    "section": "R",
+    "text": "R\n\nknitr::kable(\n  mtcars[1:6, 1:10]\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\nwt\nqsec\nvs\nam\ngear\n\n\n\n\nMazda RX4\n21.0\n6\n160\n110\n3.90\n2.620\n16.46\n0\n1\n4\n\n\nMazda RX4 Wag\n21.0\n6\n160\n110\n3.90\n2.875\n17.02\n0\n1\n4\n\n\nDatsun 710\n22.8\n4\n108\n93\n3.85\n2.320\n18.61\n1\n1\n4\n\n\nHornet 4 Drive\n21.4\n6\n258\n110\n3.08\n3.215\n19.44\n1\n0\n3\n\n\nHornet Sportabout\n18.7\n8\n360\n175\n3.15\n3.440\n17.02\n0\n0\n3\n\n\nValiant\n18.1\n6\n225\n105\n2.76\n3.460\n20.22\n1\n0\n3\n\n\n\n\n\necho = FALSE"
+  },
+  {
+    "objectID": "about.html#python",
+    "href": "about.html#python",
+    "title": "About",
+    "section": "Python",
+    "text": "Python\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis\n\n\n\n\n\nIn both cases, :“echo = FALSE” works"
+  },
+  {
+    "objectID": "Projects/test.html",
+    "href": "Projects/test.html",
+    "title": "Sungwoo",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/export.html",
+    "href": "Projects/export.html",
+    "title": "Sungwoo",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/export.html#exports-of-the-central-african-republic",
+    "href": "Projects/export.html#exports-of-the-central-african-republic",
+    "title": "Sungwoo",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/test.html#title",
+    "href": "Projects/test.html#title",
+    "title": "Sungwoo",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/housing.html",
+    "href": "Projects/housing.html",
+    "title": "Sungwoo",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/housing.html#exports-of-the-central-african-republic",
+    "href": "Projects/housing.html#exports-of-the-central-african-republic",
+    "title": "Sungwoo",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/xray.html",
+    "href": "Projects/xray.html",
+    "title": "Sungwoo",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/xray.html#title",
+    "href": "Projects/xray.html#title",
+    "title": "Sungwoo",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
   }
 ]
