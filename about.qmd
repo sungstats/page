@@ -1,7 +1,5 @@
 ---
 title: "About"
-qmd_packages:
-  - rmarkdown
 ---
 
 TEST
@@ -10,6 +8,7 @@ TEST
 
 ```{r}
 #| column: page
+install.packages("rmarkdown")
 
 knitr::kable(
   mtcars[1:6, 1:10]
